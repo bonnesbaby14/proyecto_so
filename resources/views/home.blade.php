@@ -218,7 +218,7 @@ Adoptar
 <div class="wrap">
 <h1>Obtener más información</h1>
 <p>Para poder adoptar una mascota deberás descargar los siguientes archivos</p>
-<a><div class="greenbtn">
+<a href="http://webdav.cetipet.com/webdav/"><div class="greenbtn">
 Descargar
 </div> </a> <!-- End GreenBtn -->
 </div> <!-- End Wrap -->
